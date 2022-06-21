@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="Mi TV Televisión Clásica" logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica | US
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/CREs19T.png", Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4776" name="Cosmovisión" logo="https://www.m3u.cl/logo/125_Cosmovision.jpg", Cosmovisión | CO
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", Telemedellín
+atv://antenna:31/dvb/31
+#EXTINF:0 type="stream" channelId="4745", TELEANTIOQUIA
+dtv://antenna:26642/dvb/11
+#EXTINF:0 type="stream" channelId="4775", CANAL 1
+dtv://antenna:25872/dvb/10
+#EXTINF:0 type="stream" channelId="-1", CARACOL TV HD
+dtv://antenna:14/dvb/1
+#EXTINF:0 type="stream" channelId="-1", CARACOL HD 2
+dtv://antenna:14/dvb/2
+#EXTINF:0 type="stream" channelId="4773" name="Caracol" logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", RCN HD
+dtv://antenna:15/dvb/4
+#EXTINF:0 type="stream" channelId="3780", NTN 24
+dtv://antenna:15/dvb/6
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-country="ES;LATAM", France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:0 type="stream" channelId="2813" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg", La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:0 type="stream" channelId="1321" name="La 2" logo="https://www.m3u.cl/logo/614_La_2.png", La 2  | ES
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4690" name="HispanTV" logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV  | IR
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://www.cn247.tv/img/logo.png", CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="RTVE1" logo="https://lh3.googleusercontent.com/-WHCrwstKD9c/XbIxg9DuowI/AAAAAAAArqM/nORzL7ZQ24k3msMs6B89nU2V2eG8RO2NQCK8BGAsYHg/s0/2019-10-24.png", RTVE1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Colombia" logo="https://i.imgur.com/30HzeQe.png" tvg-country="CO", TVN Global (614p)
+https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Canal 33 Madrid" logo="https://www.m3u.cl/logo/602_Canal_33_Madrid.png", Canal 33 Madrid  | ES
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1664" group="SPAIN" logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png", Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1", CANAL 6 MEXICO
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 type="stream" channelId="2726" group="NACIONALES" logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png", Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4656", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="1956" group="PERU" logo="https://i.imgur.com/4NiVS6e.png", Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:0 type="stream" channelId="4743" group="USA" logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" tvg-country="US", Ecuavisa (720p)
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BOLIVIA TV 7.1
+http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w1778950088.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/nKdVqnU.png", Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Noticias 7.3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+#EXTINF:0 type="stream" channelId="-1", CGTN E
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="4772" group="COLOMBIA" logo="https://i.imgur.com/eTxZUo6.png", Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Orbit TV" logo="https://www.m3u.cl/logo/486_Orbit_TV.png", Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:0 type="stream" channelId="-1", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REP" logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg", Telenord Canal 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REP" logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg", Telenord Canal 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REP" logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg", Telenord Canal 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Retro Plus TV Señal 3" logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3  | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vallevisión
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", CINE Y SERIES:Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN_Inglés
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:0 type="stream" channelId="363" group="24/7 WORLD NEWS" logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png", Al Jazeera (QA) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Newsmax TV www.achoAPPS.com
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BBC World News (GB) (Opt-1) www.achoAPPS.com
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1", Otto Channel www.achoAPPS.com
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="2488", SEÑALCOLOMBIA
+dtv://antenna:25872/dvb/8
+#EXTINF:0 type="stream" channelId="4649", CANAL INSTITUCIONAL
+dtv://antenna:25872/dvb/9
+#EXTINF:0 type="stream" channelId="-1" name="UAO Play" logo="https://www.m3u.cl/logo/139_UAO_Play.jpg", UAO Play  | CO
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/sRZN7Tn.png", Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/zb7kpqt.png", Canal Doce
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", BLU Radio
+dtv://antenna:14/dvb/16385
+#EXTINF:0 type="stream" channelId="-1", RCN LA RADIO
+dtv://antenna:15/dvb/16386
+#EXTINF:0 type="stream" channelId="-1", LA FM RADIO
+dtv://antenna:15/dvb/16387
+#EXTINF:0 type="stream" channelId="-1", ETB Sat www.achoAPPS.com
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1", TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Central FM" logo="https://www.m3u.cl/logo/634_Central_FM.png", Central FM  | MX
+https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", Canal 10_Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Canal Once Mexico" logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png", Canal Once Mexico  | MX
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", Telesur www.achoAPPS.com
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/rRXm5nY.png", UTV UNAH
+https://live-utv.unah.edu.hn/web/salida.m3u8
+#EXTINF:0 type="stream" channelId="-1", MUSICA:VTV HD
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1", UCSG-EC
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="UCV" logo="https://www.m3u.cl/logo/54_UCV.png", UCV  | CL
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", ATB
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Televisión del Este_Yucatán
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1", TeleUno TV www.achoAPPS.com
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTP Bolivia
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://i.imgur.com/zcWVO21.jpg", UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:0 type="stream" channelId="-1", Multimedios CR www.achoAPPS.com
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1", VISUAL RADIO
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Recuerdos Retro Radio TV" logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV  | CL
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Retro Plus TV" logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV  | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Retro Plus TV Señal 2" logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2  | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Panavision" logo="https://www.m3u.cl/logo/924_Panavision.png", Panavision | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4026", Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0 type="stream" channelId="185", HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="280" logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png", Fashion Tv
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:0 type="stream" channelId="4659" name="CINE.AR" logo="https://www.m3u.cl/logo/208_CINE_AR.png", CINE.AR | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Telered" logo="https://www.m3u.cl/logo/477_Telered.png", Telered | CR
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="TVMas Chile" logo="https://www.m3u.cl/logo/891_TVMas_Chile.webp", TVMas Chile | CL
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Exprezion TV" logo="https://www.m3u.cl/logo/67_Exprezion_TV.png", Exprezion TV | CL
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Colombia" logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" tvg-country="CO", Canal C (Santiago de Cali | Valle del Cauca) (720p)
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Colombia" logo="https://i.imgur.com/30HzeQe.png" tvg-country="CO", Canal Visión Dorada (720p)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Colombia" logo="https://i.imgur.com/6d2fOjq.png" tvg-country="CO", Suram TV (1080p)
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Colombia" logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" tvg-country="CO", TDI Colombia (936p)
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:0 type="stream" channelId="4786" group="Colombia" logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" tvg-country="CO", Telepacífico (Santiago de Cali | Valle del Cauca) (720p)
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Colombia" logo="https://i.imgur.com/RReDi1C.png" tvg-country="CO", UNO PLAY (720p)
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Mexico" logo="https://i.imgur.com/snIU1UA.jpg" tvg-country="MX", AMX Noticias (720p)
+http://tvpremiumhd.club/lista-gratuita/183325/on/lives.php?id=5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2497" group="Mexico" logo="https://i.imgur.com/15kcNRb.png" tvg-country="MX", TVMÁS (XHGV-TDT) (360p)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://i.imgur.com/sZ1yE4e.png" tvg-country="AR", Multivisión Federal (720p)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2529" group="Andorra" logo="https://graph.facebook.com/Canal33/picture?width=320&height=320" tvg-country="ES;AD", El 33 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Andorra" logo="https://i.imgur.com/CnIVW9o.jpg" tvg-country="ES;AD", 3/24 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Bolivia" logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" tvg-country="BO", Bolivia TV (720p)
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Bolivia" logo="https://i.imgur.com/YdiF5k6.png" tvg-country="BO", TVU (276p)
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Chile" logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" tvg-country="CL", Canal Latino (CL54) (360p)
+https://hd.chileservidores.cl:1936/latina/latina/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Chile" logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL", El Pingüino TV (720p)
+http://167.114.133.205:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="962" group="Colombia" logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" tvg-country="CO", ATV (Soacha | Cundinamarca)
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA" logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" tvg-country="US", History East (720p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA" logo="https://f9q4g5j6.ssl.hwcdn.net/5f9ace054964ba19ff258256" tvg-country="US", Mystery Science Theater 3000 (1080p)
+https://mst3k-localnow.amagi.tv/playlist.m3u8
