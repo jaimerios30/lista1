@@ -9,22 +9,8 @@ http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3
 https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" name="Telemedellin" logo="https://lh3.googleusercontent.com/-xYHvF-EUdHs/Xzgi-y9fR2I/AAAAAAAA4ZA/LrZrBNpDTCEW-iOr-6xhytBNMYF65WfVwCK8BGAsYHg/s0/2020-08-15.png", Telemedellin | CO
 https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR&PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1", Telemedellín
-atv://antenna:31/dvb/31
-#EXTINF:0 type="stream" channelId="4745", TELEANTIOQUIA
-dtv://antenna:26642/dvb/11
-#EXTINF:0 type="stream" channelId="4775", CANAL 1
-dtv://antenna:25872/dvb/10
-#EXTINF:0 type="stream" channelId="-1", CARACOL TV HD
-dtv://antenna:14/dvb/1
-#EXTINF:0 type="stream" channelId="-1", CARACOL HD 2
-dtv://antenna:14/dvb/2
 #EXTINF:0 type="stream" channelId="4773" name="Caracol" logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1", RCN HD
-dtv://antenna:15/dvb/4
-#EXTINF:0 type="stream" channelId="3780", NTN 24
-dtv://antenna:15/dvb/6
 #EXTINF:0 type="stream" channelId="-1", DW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 #EXTINF:0 type="stream" channelId="4690" name="HispanTV" logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV  | IR
@@ -115,16 +101,6 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/zb7kpqt.png", Canal Doce
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
-#EXTINF:0 type="stream" channelId="2488", SEÑALCOLOMBIA
-dtv://antenna:25872/dvb/8
-#EXTINF:0 type="stream" channelId="4649", CANAL INSTITUCIONAL
-dtv://antenna:25872/dvb/9
-#EXTINF:0 type="stream" channelId="-1", BLU Radio
-dtv://antenna:14/dvb/16385
-#EXTINF:0 type="stream" channelId="-1", RCN LA RADIO
-dtv://antenna:15/dvb/16386
-#EXTINF:0 type="stream" channelId="-1", LA FM RADIO
-dtv://antenna:15/dvb/16387
 #EXTINF:0 type="stream" channelId="-1", TeleSafor | HD
 http://video.telesafor.com/hls/video_high.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/rRXm5nY.png", UTV UNAH
