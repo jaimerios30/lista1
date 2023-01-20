@@ -13,8 +13,8 @@ https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlis
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:0 type="stream" channelId="-1", DW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-#EXTINF:0 type="stream" channelId="4690" name="HispanTV" logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV  | IR
-https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4690" name="Teleantioquia" logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200", Teleantioquia | CO
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
 #EXTINF:0 type="stream" channelId="2726" group="NACIONALES" logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png", Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://www.cn247.tv/img/logo.png", CN 24/7
