@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="217" group="COLOMBIA" logo="https://i.imgur.com/CREs19T.png", EuroNews
-http://ott-cdn.ucom.am/s89/index.m3u8?fluxustv.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Mi TV Televisión Clásica" logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica | US
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="217" name="Euronews" group="Informativos" logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200", Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 type="stream" channelId="1321" name="La 2" logo="https://lh3.googleusercontent.com/-SMd3sJg7ayY/Xx2oi7fP_QI/AAAAAAAA3eA/42GwqT-qtVsSgv5vKmxzeyYJCRGZ8K6FgCK8BGAsYHg/s0/2020-07-26.png", La 2 | ES
+https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" name="Canal CNC Medellin" logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin | CO
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="4776" name="Cosmovisión" logo="https://www.m3u.cl/logo/125_Cosmovision.jpg", Cosmovisión | CO
