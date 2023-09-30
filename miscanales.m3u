@@ -41,6 +41,8 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2844" group="Noticias" logo="https://i.imgur.com/vFwPhPS.png", TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png", CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8?xtreamiptv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://www.cn247.tv/img/logo.png", CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0 type="stream" channelId="4656", TLX
