@@ -7,34 +7,40 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" name="La 2 Canarias" group="Canarias" logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Canal CNC Medellin" logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin | CO
-http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/J1f4fNq.png", CNC Medellin
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4776" name="Cosmovisión" logo="https://www.m3u.cl/logo/125_Cosmovision.jpg", Cosmovisión | CO
 https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" name="Teleantioquia Colombia" group="Int. América" logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200", Teleantioquia Colombia
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Noticias Caracol Colombia" group="Int. América" logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200", Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:0 type="stream" channelId="4770" group="Noticias" logo="https://i.imgur.com/FfhOGR9.png", Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="24h" group="Informativos" logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="TeleSUR Venezuela" group="Int. América" logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200", TeleSUR Venezuela
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="DW Alemania" group="Int. Europa" logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200", DW Alemania
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="FORO TV Mexico" group="Int. América" logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg", FORO TV Mexico
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="352", DW
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:0 type="stream" channelId="-1" name="24h" group="Informativos" logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="El País" group="Informativos" logo="https://graph.facebook.com/elpais/picture?width=200&height=200", El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0 type="stream" channelId="2542" name="TV Perú" group="Int. América" logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200", TV Perú
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Telemadrid Internacional" group="Int. Europa" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid Internacional
 https://eventos2-telemadrid-live-hls.secure2.footprint.net/egress/chandler/telemadrid/eventos_1/index.m3u8
 #EXTINF:0 type="stream" channelId="2528" name="LaOtra" group="C. de Madrid" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", LaOtra
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
-#EXTINF:0 type="stream" channelId="1956" group="PERU" logo="https://i.imgur.com/4NiVS6e.png", Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:0 type="stream" channelId="2542", TV Perú
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 #EXTINF:0 type="stream" channelId="-1" name="America TeVe USA" group="Int. América" logo="https://graph.facebook.com/americateve/picture?width=200&height=200", America TeVe USA
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 #EXTINF:0 type="stream" channelId="2726" group="NACIONALES" logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png", Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2844" group="Noticias" logo="https://i.imgur.com/vFwPhPS.png", TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://www.cn247.tv/img/logo.png", CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0 type="stream" channelId="4656", TLX
