@@ -25,6 +25,8 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="FORO TV Mexico" group="Int. América" logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg", FORO TV Mexico
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AMX Noticias" logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="352", DW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 #EXTINF:0 type="stream" channelId="-1" name="DW Alemania" group="Int. Europa" logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200", DW Alemania
@@ -59,8 +61,6 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" name="Central FM" logo="https://www.m3u.cl/logo/634_Central_FM.png", Central FM  | MX
 https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1" name="AMX Noticias" logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" name="CHV Noticias" logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png", CHV Noticias | CL
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" group="Chile" logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL", El Pingüino TV (720p)
