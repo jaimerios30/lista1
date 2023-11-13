@@ -19,6 +19,8 @@ https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Noticias Caracol Colombia" group="Int. América" logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200", Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:0 type="stream" channelId="4773" name="Caracol" logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="4770" group="Noticias" logo="https://i.imgur.com/FfhOGR9.png", Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="24h" group="Informativos" logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
