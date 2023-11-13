@@ -91,6 +91,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Orbit TV" logo="https://www.m3u.cl/logo/486_Orbit_TV.png", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Apanines TV" logo="https://cdn.m3u.cl/logo/1436_Apanines_TV.png", Apanines TV * | CL
+https://tgn.bozztv.com/ssh101/ssh101/apaninestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1", MicroVision Canal 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:0 type="stream" channelId="-1", Wow TV
