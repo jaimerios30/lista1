@@ -3,26 +3,14 @@
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="4776" name="Cosmovisión" logo="https://www.m3u.cl/logo/125_Cosmovision.jpg", Cosmovisión | CO
 https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
-#EXTINF:0 type="favorites" channelId="-1", TeleMedellín
-atv://antenna:31/dvb/31
 #EXTINF:0 type="favorites" channelId="-1" name="Teleantioquia Colombia" group="Int. América" logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200", Teleantioquia Colombia
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
-#EXTINF:0 type="favorites" channelId="4745", TELEANTIOQUIA
-dtv://antenna:26642/dvb/10
-#EXTINF:0 type="favorites" channelId="4745", TELEANTIOQUIA
-dtv://antenna:26642/dvb/11
-#EXTINF:0 type="favorites" channelId="4775", CANAL 1
-dtv://antenna:25872/dvb/9
 #EXTINF:0 type="favorites" channelId="4775" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", Canal 1 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:0 type="favorites" channelId="-1", CARACOL TV HD
-dtv://antenna:14/dvb/1
 #EXTINF:0 type="favorites" channelId="-1" group="Undefined" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png", Caracol TV (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="Noticias Caracol Colombia" group="Int. América" logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200", Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:0 type="favorites" channelId="-1", RCN HD
-dtv://antenna:15/dvb/4
 #EXTINF:0 type="favorites" channelId="4770" group="News" logo="https://i.imgur.com/FfhOGR9.png", Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="News" logo="https://i.imgur.com/ZnmAXVv.png", France 24 Español (1080p)
@@ -31,8 +19,6 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 type="favorites" channelId="217" name="Euronews" group="Informativos" logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200", Euronews
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1", CARACOL HD 2
-dtv://antenna:14/dvb/2
 #EXTINF:0 type="favorites" channelId="1323" group="Undefined" logo="https://i.imgur.com/IUVRm5L.png", Canal 24 Horas (720p)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="24h" group="Informativos" logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
@@ -81,10 +67,6 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
 #EXTINF:0 type="favorites" channelId="1664" name="Aragon TV" logo="https://i2.paste.pics/1d96bb1f41f4a0a3862bdc1b9c541f8a.png", Aragon TV | ES
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
-#EXTINF:0 type="favorites" channelId="2488", SEÑALCOLOMBIA
-dtv://antenna:25872/dvb/7
-#EXTINF:0 type="favorites" channelId="4649", CANAL INSTITUCIONAL
-dtv://antenna:25872/dvb/8
 #EXTINF:0 type="favorites" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/sRZN7Tn.png", Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1", Mi TV
